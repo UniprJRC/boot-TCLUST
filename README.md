@@ -17,12 +17,11 @@ list of "sensible" choices for the parameters. The user can then pick a solution
 that fits their aims from that reduced list..
 
 
-| FileName | View :eyes:| Run ▶️ |
-| -------- | ---- | --- |
-|`simulatedData.mlx`: generate Figure 1  | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](XXX) |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/boot-TCLUST&file=simulatedData.mlx) | 
-| `simulatedDataBoot.mlx`: generate Figure 2 and Table 2 | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](XXX) |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/boot-TCLUST&file=simulatedDataBoot.mlx) | 
-|`geyserData.mlx`: generate Figure 6  | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](XXX) |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/boot-TCLUST&file=geyserData.mlx) | 
-| `covidData.mlx`: generate Figures 7 and 8 | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](XXX) |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=boot-TCLUST/2025tobit&file=covidData.mlx) | 
+| FileName | View :eyes:| Run ▶️ | Jupiter notebook |
+| -------- | ---- | --- | ---- |
+|`simulatedData.mlx`: generate Figure 1  | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](XXX) |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/boot-TCLUST&file=simulatedData.mlx) | [simulatedData.ipynb](https://github.com/UniprJRC/boot-TCLUST/blob/main/simulatedData.ipynb) | `simulatedDataBoot.mlx`: generate Figure 2 and Table 2 | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](XXX) |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/boot-TCLUST&file=simulatedDataBoot.mlx) | [simulatedDataBoot.ipynb](https://github.com/UniprJRC/boot-TCLUST/blob/main/simulatedDataBoot.ipynb)
+|`geyserData.mlx`: generate Figure 6  | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](XXX) |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/boot-TCLUST&file=geyserData.mlx) | [geyserData.ipynb](https://github.com/UniprJRC/boot-TCLUST/blob/main/geyserData.ipynb) |
+ `covidData.mlx`: generate Figures 7 and 8 | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](XXX) |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=boot-TCLUST/2025tobit&file=covidData.mlx) | [covidData.ipynb](https://github.com/UniprJRC/boot-TCLUST/blob/main/covidData.ipynb) |
 
 
 
