@@ -4,8 +4,8 @@
 
 <table>
   <tr>
-    <th style="width: 70%;"></th>
-    <th style="width: 30%;"></th>
+    <th style="width: 80%;"></th>
+    <th style="width: 20%;"></th>
   </tr>
   <tr>
     <td><img src="logo.png" width="400" height="300"></td>
