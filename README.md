@@ -1,6 +1,7 @@
 # Choice of trimming proportion and number of clusters in robust clustering based on trimming
 
 
+![ ](authors.png)
 
 <table>
   <tr>
