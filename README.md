@@ -28,8 +28,8 @@ that fits their aims from that reduced list.
 ---
 
 In the table below you can find  the original source .mlx file and the corresponding .ipynb file. The .mlx file (after installing FSDA) can be run on your MATLAB desktop or in free MATLAB Online (please see the button Open in MATLAB Online below). In order to simply view the contents of the mlx files click on the corresponding link named ('File Exchange'). In order to run the .ipynb files inside the agnostic environment jupiter notebook follow the instructions in the file
-[ipynbRunInstructions.md](https://github.com/UniprJRC/MonitoringBook/blob/main/ipynbRunInstructions.md).
-
+[ipynbRunInstructions.md](https://github.com/UniprJRC/MonitoringBook/blob/main/ipynbRunInstructions.md). 
+We can also share, upon request,  the code which has been used in the simulation study. 
 
 
 | FileName | View :eyes:| Run ▶️ | Jupiter notebook |
@@ -43,6 +43,7 @@ In the table below you can find  the original source .mlx file and the correspon
 ---
 
 
+---
 
 ![GitHub top language](https://img.shields.io/github/languages/top/UniprJRC/boot-TCLUST)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/UniprJRC/boot-TCLUST)
