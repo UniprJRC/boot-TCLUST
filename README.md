@@ -15,8 +15,7 @@ Note: in order to run the files below you need to have [FSDA toolbox](https://ht
 
 **Abstract**
 
-So-called "classification trimmed likelihood curves" have been proposed as a heuristic
-tool to determine the number of clusters and trimming proportion in trimmingbased
+So-called "classification trimmed likelihood curves" have been proposed as a heuristic tool to determine the number of clusters and trimming proportion in trimmingbased
 robust clustering methods. However, these curves needs a careful visual inspection,
 and this way of choosing parameters requires subjective decisions. This work is
 intended to provide theoretical background for the understanding of these curves and
