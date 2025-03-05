@@ -26,9 +26,26 @@ that fits their aims from that reduced list.
 
 ---
 
-In the table below you can find  the original source .mlx file and the corresponding .ipynb file. The .mlx file (after installing FSDA) can be run on your MATLAB desktop or in free MATLAB Online (please see the button Open in MATLAB Online below). In order to simply view the contents of the mlx files click on the corresponding link named ('File Exchange'). In order to run the .ipynb files inside the agnostic environment jupiter notebook follow the instructions in the file
+In the table below you can find  the original source (MATLAB live script): .mlx file and the corresponding .ipynb file. 
+
+**MATLAB live script files**
+
+The .mlx file 
+contain both the code and the output that the code produces.
+
+:eyes: To view the .mlx files click  on the "File Exchange button"
+
+▶️ To run the .mlx files in the free MATLAB on line click on "Run in MATLAB Online". The repo will be automatically cloned. 
+
+The Jupiter notebook version of the files is also given in the last column of the table below. Similarly to the .mlx files the Jupiter notebook files also contain both the code and the output produced by the code.
+
+**Jupiter notebook files**
+
+To view the .ipynb files click on the corresponding link.
+
+To run the .ipynb files inside the agnostic environment jupiter notebook follow the instructions in the file
 [ipynbRunInstructions.md](https://github.com/UniprJRC/MonitoringBook/blob/main/ipynbRunInstructions.md). 
-We can also share, upon request,  the code which has been used in the simulation study. 
+
 
 
 | FileName | View :eyes:| Run ▶️ | Jupiter notebook |
@@ -40,8 +57,11 @@ We can also share, upon request,  the code which has been used in the simulation
  `covidData.mlx`: generate Figures 8 and 9 | [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://viewer.mathworks.com/?viewer=live_code&url=https%3A%2F%2Fwww.mathworks.com%2Fmatlabcentral%2Fmlc-downloads%2Fdownloads%2Ff026de45-4ab8-44ed-85a3-1549ae68987b%2F1741126419%2Ffiles%2FgeyserData.mlx&embed=web) |  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=boot-TCLUST/2025tobit&file=covidData.mlx) | [covidData.ipynb](https://github.com/UniprJRC/boot-TCLUST/blob/main/covidData.ipynb) |
 
 
+Remark: in order to run the files we assume that the free MATLAB Add On FSDA must be installed.
+
 ---
 
+We can also share, upon request,  the code which has been used in the simulation study. 
 
 ---
 
